@@ -1,0 +1,53 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+/* Header */
+header {
+    background-color: #ff0000;
+    color: white;
+    padding: 20px;
+}
+
+/* About Me Section */
+.about {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Profile Picture */
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 10px auto;
+    border: 3px solid #ff0101cb;
+}
+
+/* Contact Section */
+.contact {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.1);
+}
+
+/* Footer */
+footer {
+    background-color: #ff0000;
+    color: white;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
